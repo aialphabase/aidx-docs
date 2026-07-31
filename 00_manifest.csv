@@ -15,6 +15,8 @@ folder,file,version,status,created_at,reviewer,notes
 02_PJ仕様_Claude_Cowork版,AIDX_PJ-04_Claude_Cowork仕様_v0.2.md,v0.2,current,2026-07-20,PM,正本
 02_PJ仕様_Claude_Cowork版,AIDX_PJ-05_Claude_Cowork仕様_v0.1.md,v0.1,superseded,2026-07-21,PM,参照用(最新はv0.2)
 02_PJ仕様_Claude_Cowork版,AIDX_PJ-05_Claude_Cowork仕様_v0.2.md,v0.2,current,2026-07-20,PM,正本
+02_PJ仕様_Claude_Cowork版,AIDX_PJ仕様_ひな型_v1.0.md,v1.0,draft,2026-07-31,PM,全PJ共通の仕様ひな型(PJ-01準拠フォーマット)。合意後にfixed。入力はv0.4基準(文字起こし後テキスト)
+02_PJ仕様_Claude_Cowork版,AIDX_PJ仕様ひな型_構造図_v0.1.svg,v0.1,draft,2026-07-31,PM,ひな型の固定章立て(管理メタデータ+1〜9)を目的別5グループで示す構造図
 03_品質確認,AIDX_QA0X_手動再監査プロンプト_v0.1.md,v0.1,draft,2026-07-21,PM,5PJ分のQA-0X手動再監査プロンプト。実データ未検証
 04_テスト仕様,AIDX_PJ-01_再現性テスト仕様_v0.1.md,v0.1,superseded,2026-07-20,要確認,参照用(最新はv0.2)
 04_テスト仕様,AIDX_PJ-01_再現性テスト仕様_v0.2.md,v0.2,current,2026-07-21,PM,正本。ゴールデンテスト4系統は未実行
